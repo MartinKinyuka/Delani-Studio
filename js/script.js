@@ -8,3 +8,9 @@ $("#dev").click(function(){
   $("#text2").toggle(1000);
   });
 })
+$(document).ready(function() {
+  $("#prod").click(function(){
+    $("#text3").toggle(1000);
+    });
+  })
+  

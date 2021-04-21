@@ -160,9 +160,26 @@ footer{
   border: none;
   position: relative;
   left: 600px;
-  clear: left;
 
 }
 #text2 h1{
+  font-weight: bold;
+}
+
+
+#text3{
+  display: none;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 250px;
+  width: 300px;
+  clear: both;
+  border: none;
+  position: relative;
+  left: 1000px;
+
+}
+#text3 h1{
   font-weight: bold;
 }
