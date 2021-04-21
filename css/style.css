@@ -141,11 +141,28 @@ footer{
   box-sizing: border-box;
   height: 250px;
   width: 300px;
-  clear: both;
   border: none;
   position: relative;
   left: 200px;
 }
 #text1 h1{
+  font-weight: bold;
+}
+
+#text2{
+  display: none;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 250px;
+  width: 300px;
+  clear: both;
+  border: none;
+  position: relative;
+  left: 600px;
+  clear: left;
+
+}
+#text2 h1{
   font-weight: bold;
 }
