@@ -13,4 +13,12 @@ $(document).ready(function() {
     $("#text3").toggle(1000);
     });
   })
-  
+
+  $(document).ready(function() {
+    $("#one").mouseenter(function(){
+      $("#oneP").show();
+      }),$("#one").mouseleave(function(){
+        $("#oneP").hide()
+      });
+      
+    })
