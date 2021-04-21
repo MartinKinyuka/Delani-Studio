@@ -34,9 +34,12 @@
 ### TECHNOLOGY USED
 
 1. Git
+2. Jquery
 
 ### BDD
->As a user, once you have gone through the description of what the site does, you will be required to input your date of birth in the format mm/dd/yyyy and then click either male or female radio button. Once you click submit your Akan name shall be displayed. Should you miss to either fill in your date of birth or pick a gender then the page will alert you to fill in all the details.
+>As a user,one will experience the interactive nature of the website with toggle buttons at the what we do section and hover features on each of the portfolios.
+
+>If one wishes to send a message, all you have to type in are your contact details and name then send your message. A pop-up alert will let you know that your message has been delivered.
 
 ### LIVE SITE
 
@@ -44,7 +47,9 @@
 
 ### KNOWN BUGS
 
->If the date is not written in the correct format that is mm/dd/yyyy then the Akan name given in the display is undefined instead of prompting the user that the date has been entered erroneously.
+>If one moves rapidly across the icons that have hover feature cthe screen flickers uncomfortably.
+
+>If one clicks all the toggle buttons at once the text appears in staircase column form rather than a straight row form.
 
 ### LICENCE
 
