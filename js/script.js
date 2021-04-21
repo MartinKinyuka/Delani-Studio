@@ -22,3 +22,28 @@ $(document).ready(function() {
       });
       
     })
+
+    $(document).ready(function() {
+      $("#two").mouseenter(function(){
+        $("#twoP").show();
+        }),$("#two").mouseleave(function(){
+          $("#twoP").hide()
+        });
+        
+      })
+      $(document).ready(function() {
+        $("#three").mouseenter(function(){
+          $("#threeP").show();
+          }),$("#three").mouseleave(function(){
+            $("#threeP").hide()
+          });
+          
+        })
+        $(document).ready(function() {
+          $("#four").mouseenter(function(){
+            $("#fourP").show();
+            }),$("#four").mouseleave(function(){
+              $("#fourP").hide()
+            });
+            
+          })

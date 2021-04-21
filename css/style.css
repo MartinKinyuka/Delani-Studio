@@ -190,6 +190,43 @@ footer{
   position: relative;
   right: 200px;
   top: 100px;
-  color: antiquewhite;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+}
+#twoP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#threeP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#fourP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
 
 }
