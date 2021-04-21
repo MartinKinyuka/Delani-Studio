@@ -47,3 +47,19 @@ $(document).ready(function() {
             });
             
           })
+          $(document).ready(function() {
+            $("#five").mouseenter(function(){
+              $("#fiveP").show();
+              }),$("#five").mouseleave(function(){
+                $("#fiveP").hide()
+              });
+              
+            })
+            $(document).ready(function() {
+              $("#six").mouseenter(function(){
+                $("#sixP").show();
+                }),$("#six").mouseleave(function(){
+                  $("#sixP").hide()
+                });
+                
+              })

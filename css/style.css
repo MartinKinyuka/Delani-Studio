@@ -230,3 +230,27 @@ footer{
   font-size: larger;
 
 }
+#fiveP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#sixP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
