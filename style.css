@@ -1,0 +1,285 @@
+.top{
+  background-image: url(h_img.jpg);
+  color: antiquewhite;
+  text-align: center;
+  height: 1071px;
+}
+.top h1 {
+  position: relative;
+  top: 430px;
+}
+.top p {
+  position: relative;
+  top: 430px;
+}
+.top img{
+  position: relative;
+  top: 350px;
+}
+#mouse{
+  position: relative;
+  top: 700px;
+}
+.about{
+  margin-top: 50px;
+  text-align: center;
+  justify-content: center;
+}
+.services{
+  background-image: url(s_image.jpg);
+  color: antiquewhite;
+  height: 488px;
+  margin-top: 50px;
+  text-align: center;
+  justify-content: center;
+}
+.services p{
+  position: relative;
+  top: 200px;
+}
+.services h1{
+  position: relative;
+  top: 200px;
+}
+#what{
+  margin-top: 25px;
+  text-align: center;
+}
+.whatWeDo{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#design{
+ position: relative;
+ left: 45px;
+}
+#dev{
+  position: relative;
+  left:75px;
+}
+#prod{
+  position: relative;
+  left:20px;
+}
+#portfolio{
+  text-align: center;
+}
+.rowOne{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+}
+.rowTwo{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.contact{
+  background-image: url(c_image.jpg);
+  height: 683px;
+  color: antiquewhite;
+  text-align: center;
+  margin-top: 25px;
+}
+.contact h1{
+  position: relative;
+  top: 50px;
+}
+#name{
+  position: relative;
+  top: 100px;
+  box-sizing: border-box;
+  width: 400px;
+  position: relative;
+  right: 200px;
+  border: solid 1px white;
+  background: transparent;
+
+
+}
+#email{
+  position: relative;
+  top: 72px;
+  box-sizing: border-box;
+  width: 400px;
+  position: relative;
+  left: 250px;
+  border: solid 1px white;
+  background: transparent;
+
+}
+#message{
+  position: relative;
+  top: 100px;
+  box-sizing: border-box;
+  width: 800px;
+  height: 200px;
+  text-align: center;
+  border: solid 1px antiquewhite;
+  background:transparent
+}
+::placeholder{
+  color: white;
+}
+
+footer{
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 25px;
+}
+#text1{
+  display: none;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 250px;
+  width: 300px;
+  border: none;
+  position: relative;
+  left: 200px;
+}
+#text1 h1{
+  font-weight: bold;
+}
+
+#text2{
+  display: none;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 250px;
+  width: 300px;
+  clear: both;
+  border: none;
+  position: relative;
+  left: 600px;
+
+}
+#text2 h1{
+  font-weight: bold;
+}
+
+
+#text3{
+  display: none;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 250px;
+  width: 300px;
+  clear: both;
+  border: none;
+  position: relative;
+  left: 1000px;
+
+}
+#text3 h1{
+  font-weight: bold;
+}
+#oneP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+}
+#twoP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#threeP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#fourP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#fiveP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#sixP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#sevenP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#eightP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#submit{
+  position: relative;
+  top: 100px;
+  color: white
+}
