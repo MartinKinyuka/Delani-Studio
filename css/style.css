@@ -63,4 +63,20 @@
   position: relative;
   left:20px;
 }
+#portfolio{
+  text-align: center;
+}
+.rowOne{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+}
+.rowTwo{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
 
