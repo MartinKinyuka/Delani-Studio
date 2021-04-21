@@ -82,5 +82,47 @@
 .contact{
   background-image: url(/assets/backgrounds/c_image.jpg);
   height: 683px;
+  color: antiquewhite;
+  text-align: center;
+  margin-top: 25px;
 }
+.contact h1{
+  position: relative;
+  top: 50px;
+}
+#name{
+  position: relative;
+  top: 100px;
+  box-sizing: border-box;
+  width: 400px;
+  position: relative;
+  right: 200px;
+  border: solid 1px white;
+  background: transparent;
 
+
+}
+#email{
+  position: relative;
+  top: 70px;
+  box-sizing: border-box;
+  width: 400px;
+  position: relative;
+  left: 200px;
+  border: solid 1px white;
+  background: transparent;
+
+}
+#message{
+  position: relative;
+  top: 100px;
+  box-sizing: border-box;
+  width: 800px;
+  height: 200px;
+  text-align: center;
+  border: solid 1px antiquewhite;
+  background:transparent
+}
+::placeholder{
+  color: white;
+}
