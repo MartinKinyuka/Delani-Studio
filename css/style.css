@@ -254,3 +254,27 @@ footer{
   font-size: larger;
 
 }
+#sevenP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}
+#eightP{
+  display: none;
+  background: transparent;
+  text-align: center;
+  position: relative;
+  right: 200px;
+  top: 100px;
+  color: red;
+  font-weight: bolder;
+  font-size: larger;
+
+}

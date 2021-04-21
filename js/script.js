@@ -63,3 +63,19 @@ $(document).ready(function() {
                 });
                 
               })
+              $(document).ready(function() {
+                $("#seven").mouseenter(function(){
+                  $("#sevenP").show();
+                  }),$("#seven").mouseleave(function(){
+                    $("#sevenP").hide()
+                  });
+                  
+                })
+                $(document).ready(function() {
+                  $("#eight").mouseenter(function(){
+                    $("#eightP").show();
+                    }),$("#eight").mouseleave(function(){
+                      $("#eightP").hide()
+                    });
+                    
+                  })
