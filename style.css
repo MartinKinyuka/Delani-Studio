@@ -131,8 +131,19 @@ footer{
   text-align: center;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  position: relative;
+  left: 500px;
   margin-top: 25px;
+}
+footer p{
+  position: relative;
+  right: 300px;
+  top: 100px;
+}
+footer h4{
+  position: relative;
+  right: 370px;
+  top: 120px
 }
 #text1{
   display: none;
