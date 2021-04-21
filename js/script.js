@@ -79,3 +79,13 @@ $(document).ready(function() {
                     });
                     
                   })
+
+$(document).ready(function() {
+  $("#submit").click(function(){
+   if ("name" && "#email" && "#message" !== "null")
+   alert("Your message has been received");
+   else{
+     alert("Please check you have entered correct email address")
+   }
+  });
+})
