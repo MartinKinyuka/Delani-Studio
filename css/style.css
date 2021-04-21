@@ -41,4 +41,26 @@
   position: relative;
   top: 200px;
 }
+#what{
+  margin-top: 25px;
+  text-align: center;
+}
+.whatWeDo{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#design{
+ position: relative;
+ left: 45px;
+}
+#dev{
+  position: relative;
+  left:75px;
+}
+#prod{
+  position: relative;
+  left:20px;
+}
 
