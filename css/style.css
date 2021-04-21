@@ -134,3 +134,18 @@ footer{
   justify-content: space-evenly;
   margin-top: 25px;
 }
+#text1{
+  display: none;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 250px;
+  width: 300px;
+  clear: both;
+  border: none;
+  position: relative;
+  left: 200px;
+}
+#text1 h1{
+  font-weight: bold;
+}
