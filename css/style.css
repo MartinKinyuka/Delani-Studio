@@ -25,4 +25,20 @@
   text-align: center;
   justify-content: center;
 }
+.services{
+  background-image: url(/assets/backgrounds/s_image.jpg);
+  color: antiquewhite;
+  height: 488px;
+  margin-top: 50px;
+  text-align: center;
+  justify-content: center;
+}
+.services p{
+  position: relative;
+  top: 200px;
+}
+.services h1{
+  position: relative;
+  top: 200px;
+}
 
