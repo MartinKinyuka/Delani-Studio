@@ -21,7 +21,7 @@
 
 ### SET-UP
 
->Clone the code by opening the terminal and typing the following command:"$ 
+>Clone the code by opening the terminal and typing the following command:"$ clone https://github.com/MartinKinyuka/Delani-Studio
 
 >From you local directory you can now edit the code using your favourite IDE.
 
@@ -43,7 +43,7 @@
 
 ### LIVE SITE
 
->View the live site at:
+>View the live site at: https://martinkinyuka.github.io/Delani-Studio/
 
 ### KNOWN BUGS
 
